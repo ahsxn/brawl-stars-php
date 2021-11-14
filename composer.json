@@ -1,0 +1,19 @@
+{
+    "name": "ahsan112/brawlstars-php",
+    "description": "BrawlStars api wrapper in PHP",
+    "keywords": [
+        "brawl stars",
+        "brawl stars api",
+        "supercell",
+        "api wrapper",
+        "api"
+      ],
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BrawlStars\\": "lib/"
+        }
+    }
+}
